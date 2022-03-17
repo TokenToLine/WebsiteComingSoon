@@ -11,7 +11,7 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="us">
+<html lang="en-us">
   <head>
     <title>TTL - TokenToLine</title>
 
