@@ -28,10 +28,10 @@ require_once 'core/init.php';
       <p class="desc font-white">You will receive an email when we go live.</p>
 
       <div class="icons">
-        <a class="socialIcons" href="https://linktr.ee/TokenToLine" title="All our links" alt="linktree"><img src="img/png/linktree.png"/></a>
-        <a class="socialIcons" href="https://www.instagram.com/tokentoline" title="Subscribe to our instagram" alt="Instagram"><img src="img/png/instagram.png"/></a>
-        <a class="socialIcons" href="https://github.com/TokenToLine" title="Look for the code on github" alt="Github"><img src="img/png/github.png"/></a>
-        <a class="socialIcons" href="https://twitter.com/tokentoline" title="Subscribe on to our twitter" alt="Twitter"><img src="img/png/twitter.png"/></a>
+        <a class="socialIcons" href="https://linktr.ee/TokenToLine" title="All our links" alt="linktree"><img src="img/png/linktree.png" alt="linktree"/></a>
+        <a class="socialIcons" href="https://www.instagram.com/tokentoline" title="Subscribe to our instagram" alt="Instagram"><img src="img/png/instagram.png" alt="Instagram"/></a>
+        <a class="socialIcons" href="https://github.com/TokenToLine" title="Look for the code on github" alt="Github"><img src="img/png/github.png" alt="Github"/></a>
+        <a class="socialIcons" href="https://twitter.com/tokentoline" title="Subscribe on to our twitter" alt="Twitter"><img src="img/png/twitter.png" alt="Twitter"/></a>
       </div>
     </div>
   </body>
