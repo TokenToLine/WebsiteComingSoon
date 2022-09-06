@@ -522,6 +522,10 @@ svg {
   background: transparent;
 }
 
+i.github-text-link.fa-brands.fa-github {
+  font-size: 25px;
+}
+
 footer {
   margin-top: 50px;
   background-color: #4625E8;

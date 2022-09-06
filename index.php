@@ -35,6 +35,11 @@
     <div class="content">
         <div class="row">
             <div class="column">
+                <?php include 'asset/txt/tokentoline.php';?> 
+            </div>
+        </div>
+        <div class="row">
+            <div class="column">
                 <?php include 'asset/txt/opensource.php';?> 
             </div>
 
