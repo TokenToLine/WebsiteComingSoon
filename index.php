@@ -23,7 +23,7 @@
         <div class="banner">
             <div class="bannercontent">
                 <h1>The most open source Crypto token on the market</h1>
-                <img src="img/png/logotokentoline.png" alt="logo TokenToLine">
+                <img src="img/png/tokenblack.png" alt="TTL Tokens">
             </div>
         </div>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
