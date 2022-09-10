@@ -680,6 +680,12 @@ footer .footer-right {
     height: 625px;
   }
 }
+@media screen and (max-width: 450px) {
+  .bannercontent img {
+      width: 250px;
+      margin-top: -50px;
+  }
+}
 
 @media screen and (max-width: 360px) {
   .banner {
