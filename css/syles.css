@@ -192,9 +192,10 @@ svg {
 
 .bannercontent img {
   margin-left: auto;
-  margin-top: -110px;
+  margin-top: -80px;
   display: block;
-  width: 100px;
+  width: 300px;
+  margin-right: -50px;
 }
 
 .contract {
@@ -608,7 +609,9 @@ footer .footer-right li {
     max-width: 350px;
   }
   .banner img {
-    width: 150px;
+    width: 400px;
+    margin-right: -75px;
+    margin-top: -110px;
   }
   .banner .contract {
     margin-top: 0px;
@@ -711,6 +714,10 @@ footer .footer-right li {
   .banner {
     height: 400px;
   }
+  .banner img {
+    width: 550px;
+    margin-top: -135px;
+  }
   .banner .contract {
     width: 400px;
     height: 50px;
@@ -783,8 +790,9 @@ footer .footer-right li {
     max-width: 450px;
   }
   .banner img {
-    width: 200px;
-    margin-top: -150px;
+    width: 655px;
+    margin-right: -83px;
+    margin-top: -205px;
   }
   .bannercontent h1 {
     font-size: 50px;
@@ -857,6 +865,13 @@ footer .footer-right li {
 @media screen and (min-width: 4000px) {
   .banner {
     height: 625px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .bannercontent img {
+    width: 250px;
+    margin-top: -50px;
   }
 }
 
