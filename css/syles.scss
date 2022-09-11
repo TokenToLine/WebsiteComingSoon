@@ -185,8 +185,10 @@ header {
 svg {
   position: absolute;
   bottom: 0;
-  width: 100%;
+  width: 110%;
   height: 10vw;
+  margin-bottom: -1px;
+  margin-left: -18px;
 }
 
 .banner {
