@@ -6,8 +6,8 @@ better.</p>
 
 <ul>
     <li>5% goes to the liquidity pool.</li>
-    <li>2% goes to marketing.</li>
-    <li>1% goes to the holders</li>
+    <li>2% goes to the holders</li>
+    <li>1% goes to marketing.</li>
 </ul>
 <div class="container1">
     <img src="img/png/fee.png" alt="fee">
