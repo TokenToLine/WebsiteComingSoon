@@ -205,10 +205,10 @@ svg {
   }
   img{
     margin-left: auto;
-    margin-top: -80px;
+    margin-top: -65px;
     display: block;
-    width: 300px;
-    margin-right: -50px;
+    width: 275px;
+    margin-right: -20px;
   }
 }
 
@@ -548,9 +548,9 @@ footer .footer-right {
   .banner{
     h1 {max-width: 350px;}
     img{
-      width: 400px;
-      margin-right: -75px;
-      margin-top: -100px;
+      width: 300px;
+      margin-right: -20px;
+      margin-top: -60px;
     }
     .contract {margin-top: 0px;}
   }
@@ -579,7 +579,13 @@ footer .footer-right {
   .content{padding: 0 100px;}
   .companies {padding: 25px 100px;}
 
-  .banner {padding: 0 70px;}
+  .banner {
+    padding: 0 70px;
+    img {
+      width: 310px;
+      margin-top: -90px;
+    }
+  }
   
   header {
     .topnav {
@@ -606,7 +612,7 @@ footer .footer-right {
   .banner {
     height: 400px;
     img{
-      width: 550px;
+      width: 450px;
       margin-top: -135px;
     }
     .contract {
@@ -644,8 +650,7 @@ footer .footer-right {
       max-width: 450px;
     }
     img {
-      width: 655px;
-      margin-right: -83px;
+      width: 500px;
       margin-top: -205px;
     }
   }
@@ -691,8 +696,8 @@ footer .footer-right {
 }
 @media screen and (max-width: 450px) {
   .bannercontent img {
-      width: 250px;
-      margin-top: -50px;
+      width: 220px;
+      margin-top: -30px;
   }
 }
 
@@ -705,8 +710,8 @@ footer .footer-right {
       font-size: 1.5em;
     }
     img {
-      width: 75px;
-      margin-top: -50px;
+      width: 158px;
+      margin-top: -28px;
     }
   }
 

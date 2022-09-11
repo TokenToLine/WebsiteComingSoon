@@ -193,10 +193,10 @@ svg {
 
 .bannercontent img {
   margin-left: auto;
-  margin-top: -80px;
+  margin-top: -65px;
   display: block;
-  width: 300px;
-  margin-right: -50px;
+  width: 275px;
+  margin-right: -20px;
 }
 
 .contract {
@@ -610,9 +610,9 @@ footer .footer-right li {
     max-width: 350px;
   }
   .banner img {
-    width: 400px;
-    margin-right: -75px;
-    margin-top: -100px;
+    width: 300px;
+    margin-right: -20px;
+    margin-top: -60px;
   }
   .banner .contract {
     margin-top: 0px;
@@ -686,6 +686,10 @@ footer .footer-right li {
   .banner {
     padding: 0 70px;
   }
+  .banner img {
+    width: 310px;
+    margin-top: -90px;
+  }
   header .topnav a.icon {
     right: 20px;
   }
@@ -716,7 +720,7 @@ footer .footer-right li {
     height: 400px;
   }
   .banner img {
-    width: 550px;
+    width: 450px;
     margin-top: -135px;
   }
   .banner .contract {
@@ -791,8 +795,7 @@ footer .footer-right li {
     max-width: 450px;
   }
   .banner img {
-    width: 655px;
-    margin-right: -83px;
+    width: 500px;
     margin-top: -205px;
   }
   .bannercontent h1 {
@@ -871,8 +874,8 @@ footer .footer-right li {
 
 @media screen and (max-width: 450px) {
   .bannercontent img {
-    width: 250px;
-    margin-top: -50px;
+    width: 220px;
+    margin-top: -30px;
   }
 }
 
@@ -886,8 +889,8 @@ footer .footer-right li {
     font-size: 1.5em;
   }
   .banner img {
-    width: 75px;
-    margin-top: -50px;
+    width: 158px;
+    margin-top: -28px;
   }
   .topnav {
     min-height: 110px;
