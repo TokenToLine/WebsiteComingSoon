@@ -35,6 +35,9 @@
                     incorporated unique things in our token
                     code that others don’t have.</p>
             </div>
+            <div class="column last lasthidden">
+                <img style="width: 270px; margin-top: -100px;" src="img/png/tokenTTL.png" alt="TTL Token">
+            </div>
         </div>
         <div class="row">
             <div class="column">

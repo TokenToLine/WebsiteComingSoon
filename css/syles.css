@@ -172,6 +172,7 @@ svg {
   bottom: 0;
   width: 100%;
   height: 10vw;
+  margin-bottom: -0.5px;
 }
 
 .banner {
@@ -620,8 +621,8 @@ footer .footer-right li {
   .team {
     -ms-grid-columns: (1fr)[3];
         grid-template-columns: repeat(3, 1fr);
-    -ms-grid-rows: (1fr)[2];
-        grid-template-rows: repeat(2, 1fr);
+    -ms-grid-rows: (1fr)[1];
+        grid-template-rows: repeat(1, 1fr);
   }
   .person1 {
     -ms-grid-row: 1;
