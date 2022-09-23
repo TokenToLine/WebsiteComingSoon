@@ -1,3 +1,9 @@
+<a class="warning" href="disclaimer.php">
+    <div class="warning">
+        <p>Risk of loss, 18+</p>
+    </div>
+</a>
+
 <h4>Coming Soon</h4>
 <hr>
 

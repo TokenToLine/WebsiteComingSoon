@@ -52,6 +52,18 @@ html {
   margin-left: 20px;
 }
 
+.warning {
+  background-color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
+.warning p {
+  font-size: 12.5px;
+  padding: 2px;
+  text-decoration: none;
+}
+
 header {
   background-color: #4625E8;
   position: relative;

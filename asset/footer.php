@@ -38,6 +38,7 @@
             <li>Links</li>
             <li><a href="branding.php">Branding</a></li>
             <li><a href="support.php">Support</a></li>
+            <li><a href="disclaimer.php">Disclaimer</a></li>
             <li><a href="https://github.com/TokenToLine" target="_blank">Open source</a></li>
         </ul>
     </div>

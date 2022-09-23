@@ -72,6 +72,17 @@ html{
   }
 }
 
+.warning {
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  text-decoration: none;
+  p {
+    font-size: 12.5px;
+    padding: 2px;
+    text-decoration: none;
+  }
+}
+
 // header style
 header {
   background-color: $primary;
