@@ -8,6 +8,7 @@
     <meta name="description" content="TokenToLine - Subscribe">
     <meta name="keywords" content="TokenToLine, tokentoline, ttl, TTL, Subscribe">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex">
 
     <link rel="stylesheet" href="css/syles.css">
     <link rel="apple-touch-icon" href="img/png/logotokentoline.png">
