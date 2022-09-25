@@ -484,6 +484,7 @@ footer {
   margin-top: 50px;
   background-color: $primary;
   height: 210px;
+  padding: env(safe-area-inset-right) env(safe-area-inset-left)
   hr{
     margin-top: 50px;
     opacity: 75%;

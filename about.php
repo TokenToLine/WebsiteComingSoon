@@ -7,8 +7,9 @@
     <meta charset="UTF-8">
     <meta name="description" content="TokenToLine - The most open source crypto token on the market">
     <meta name="keywords" content="TokenToLine, tokentoline, ttl, TTL, token, safety, crypto, crypto token, open source token">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <meta name=viewport content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name = "theme-color" content = "#4625e8">
+    
     <link rel="stylesheet" href="css/syles.css">
     <link rel="apple-touch-icon" href="img/png/logotokentoline.png">
     <script src="https://kit.fontawesome.com/f41fb71d00.js" crossorigin="anonymous"></script>
