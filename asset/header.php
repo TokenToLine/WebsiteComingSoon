@@ -20,6 +20,7 @@
         <a href="about.php">About</a>
         <a href="token.php">TTL - Token</a>
         <a href="crypto.php">All About Crypto</a>
+        <a href="whitepaper.php">Whitepaper</a>
         <a href="team.php">Our Team</a>
         <a href="roadmap.php">Roadmap</a>
         <a href="support.php">Support</a>
