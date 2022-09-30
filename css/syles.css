@@ -64,6 +64,76 @@ html {
   text-decoration: none;
 }
 
+.popup {
+  background-color: #fff;
+  width: 240px;
+  padding: 20px;
+  position: absolute;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+  border-radius: 8px;
+  display: auto;
+  font-family: "Poppins",sans-serif;
+  text-align: center;
+  overflow: hidden;
+  -webkit-box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.5);
+  opacity: 1;
+}
+
+.popup img {
+  width: 240px;
+}
+
+.popup button {
+  display: block;
+  margin: 0 0 0 auto;
+  background-color: transparent;
+  font-size: 30px;
+  color: #fff;
+  background: #4625e8;
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0 0 5px 0;
+}
+
+.popup h2 {
+  margin-top: -10px;
+}
+
+.popup p {
+  font-size: 14px;
+  text-align: justify;
+  margin: 20px 0;
+}
+
+.popup a {
+  display: block;
+  width: 150px;
+  position: relative;
+  margin: 10px auto;
+  text-align: center;
+  background-color: #4625e8;
+  border-radius: 20px;
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 0;
+}
+
+.blur {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  z-index: 99;
+}
+
 header {
   background-color: #4625E8;
   position: relative;
@@ -617,6 +687,9 @@ footer .footer-right li {
 }
 
 @media screen and (min-width: 576px) {
+  .popup {
+    width: 400px;
+  }
   .banner h1 {
     max-width: 350px;
   }
@@ -798,6 +871,12 @@ footer .footer-right li {
 }
 
 @media screen and (min-width: 1200px) {
+  .popup {
+    width: 700px;
+  }
+  .popup img {
+    width: 400px;
+  }
   .banner {
     height: 450px;
   }
@@ -888,9 +967,16 @@ footer .footer-right li {
     width: 220px;
     margin-top: -30px;
   }
+  header .nav a {
+    padding: 2px !important;
+    font-size: 25px !important;
+  }
 }
 
 @media screen and (max-width: 360px) {
+  header .nav ul {
+    margin-top: -35px;
+  }
   .banner {
     height: 230px;
   }

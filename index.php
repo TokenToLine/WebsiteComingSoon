@@ -10,13 +10,20 @@
     <meta name=viewport content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name = "theme-color" content = "#4625e8">
 
-    <link rel="stylesheet" href="css/syles.css">
+    <link rel=stylesheet href=css/styles.css?v=3.3>
     <link rel="apple-touch-icon" href="img/png/logotokentoline.png">
     <script src="https://kit.fontawesome.com/f41fb71d00.js" crossorigin="anonymous"></script>
     <script src="js/menu.js"></script>
 </head>
 
 <body style="overflow: auto;">
+    <!-- ad -->
+    <div id="blur" class="blur">  
+        <div id="ad" class="popup">
+            <?php include 'asset/ad.php';?>
+        </div>
+    </div>
+
     <!-- Navigation Menu -->
     <header>
         <?php include 'asset/header.php';?>
@@ -63,4 +70,5 @@
         <?php include 'asset/footer.php';?>
     </footer>
 </body>
+<script src="js/ad.js"></script>
 </html>
