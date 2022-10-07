@@ -42,7 +42,7 @@
         </div>
         <div class="row">
             <div class="column">
-                <?php include 'asset/txt/tokenomics.php';?>
+                <?php include 'asset/txt/value.php';?>
             </div>
             <div class="column last">
                 <?php include 'asset/txt/opensource.php';?>
@@ -54,7 +54,7 @@
                 <?php include 'asset/txt/holders.php';?>
             </div>
             <div class="column last">
-                <?php include 'asset/txt/liquidity.php';?>
+                <?php include 'asset/txt/tokenomics.php';?>
             </div>
         </div>
     </div>
