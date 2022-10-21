@@ -29,18 +29,48 @@
             <p>What will happen in the future:</p>
 
             <div class="line">
-                <div class="road">
-                    <h5>Token contract.</h5>
+                <div class=road>
+                    <h5>Promotion Instagram and Twitter.</h5>
+                    <p>Coming Soon</p>
+                </div>
+                
+                <div class=road>
+                    <h5>Token TTL contract ready.</h5>
+                    <p>Coming Soon</p>
+                </div>
+                
+                <div class=road>
+                    <h5>Coinmarketcap ICO listing.</h5>
                     <p>Coming Soon</p>
                 </div>
 
-                <div class="road">
-                    <h5>Official website online.</h5>
+                <div class=road>
+                    <h5>Presale.</h5>
                     <p>Coming Soon</p>
                 </div>
 
-                <div class="road">
-                    <h5>First promotion ad.</h5>
+                <div class=road>
+                    <h5>Presale promotion (If it is necessary to reach the set amount).</h5>
+                    <p>Coming Soon</p>
+                </div>
+
+                <div class=road>
+                    <h5>Token TTL officially live.</h5>
+                    <p>Coming Soon</p>
+                </div>
+
+                <div class=road>
+                    <h5>Listing on pancakeswap.</h5>
+                    <p>Coming Soon</p>
+                </div>
+
+                <div class=road>
+                    <h5>Listing on Coinmarketcap and Coingecko.</h5>
+                    <p>Coming Soon</p>
+                </div>
+
+                <div class=road>
+                    <h5>Certik certificate.</h5>
                     <p>Coming Soon</p>
                 </div>
             </div>
