@@ -19,6 +19,7 @@
     <div id="links" class="block">
         <a href="about.php">About</a>
         <a href="token.php">TTL - Token</a>
+        <a href="buy.php">Invest / Buy TTL</a>
         <a href="crypto.php">All About Crypto</a>
         <a href="whitepaper.php">Whitepaper</a>
         <a href="team.php">Our Team</a>

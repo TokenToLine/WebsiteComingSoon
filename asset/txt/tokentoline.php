@@ -12,6 +12,11 @@
     so that more holders fee remains for the holders.
     Think of our entire team and all liquidity pools.</p>
 
+<p>Besides all this, our token is also linked to BNB.
+	This ensures that if bnb rises, TTL would increase with the same
+    percentage.</p>
+
+
 <a href="https://github.com/TokenToLine" target="_blank">
     <i class="github-text-link fa-brands fa-github"></i>
 </a>
