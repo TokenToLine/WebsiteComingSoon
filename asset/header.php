@@ -6,13 +6,13 @@
 
 <h4>Coming Soon</h4>
 <hr>
-
 <div class="topnav">
     <a href="index.php">
         <img src="img/png/logo.png" alt="Logo TokenToLine">
     </a>
     <a href="subscribe.php" class="icon buy">Subscribe for notice</a>
-    <a href="javascript:void(0);" class="icon" onclick="nav()">
+
+    <a href="javascript:void(0)" class="icon" onclick="nav()">
         <i class="fa fa-bars"></i>
     </a>
 
@@ -34,8 +34,13 @@
                 </a>
             </li>
             <li>
+                <a href="https://discord.com/invite/2uNs2HCV7w" target="_blank">
+                    <i class="fa-brands fa-discord"></i>
+                </a>
+            </li>
+            <li>
                 <a href="https://linktr.ee/TokenToLine" target="_blank">
-                    <i class="fa-solid fa-link"></i>
+                    <i class="fa-solid fa-square-arrow-up-right"></i>
                 </a>
             </li>
             <li>

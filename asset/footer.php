@@ -11,8 +11,13 @@
                 </a>
             </li>
             <li>
+                <a href="https://discord.com/invite/2uNs2HCV7w" target="_blank">
+                    <i class="fa-brands fa-discord"></i>
+                </a>
+            </li>
+            <li>
                 <a href="https://linktr.ee/TokenToLine" target="_blank">
-                    <i class="fa-solid fa-link"></i>
+                    <i class="fa-solid fa-square-arrow-up-right"></i>
                 </a>
             </li>
             <li>
@@ -43,5 +48,4 @@
         </ul>
     </div>
 </div>
-
 <hr>
